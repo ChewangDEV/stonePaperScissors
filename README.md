@@ -2,6 +2,8 @@
 
 A modern implementation of the classic **Stone Paper Scissors** game built using **HTML, CSS, and JavaScript**. Challenge the computer, make your move, and see who wins!
 
+Link: https://chewangdev.github.io/stonePaperScissors/
+
 ##  About the Project
 
 This project recreates the timeless Stone Paper Scissors game with a clean user interface and instant gameplay. The player selects a move while the computer randomly generates its choice, and the winner is determined based on the game rules.
